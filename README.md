@@ -1,13 +1,2 @@
 # snakeDHT11
-#####################################################
-#                  __       ___  __ ______________
-#   ___ ___  ___ _/ /_____ / _ \/ // /_  __<  <  /
-#  (_-</ _ \/ _ `/  '_/ -_) // / _  / / /  / // /
-# /___/_//_/\_,_/_/\_\\__/____/_//_/ /_/  /_//_/
-#
-#####################################################
-# Title:        snakeDHT11
-# Version:      1.0
-# Description:  Provides humidity and temperature readings for snake encloure
-# Author:       Jonas Werner
-#####################################################
+Provides humidity and temperature readings for snake encloure
